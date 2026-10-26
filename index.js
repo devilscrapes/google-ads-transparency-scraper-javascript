@@ -1,4 +1,4 @@
-// Run the Google Ads Transparency Scraper — Advertiser Ad Library Export on Apify and save its results as JSON and CSV.
+// Run the Google Ads Transparency Center Scraper & API on Apify and save its results as JSON and CSV.
 // Actor page: https://apify.com/DevilScrapes/google-ads-transparency
 
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
